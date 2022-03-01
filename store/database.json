@@ -1,0 +1,305 @@
+{
+    "data_transaksi":[
+        {
+            "id": "5ad130e5-4b49-49cc-b79d-072f12de2b38",
+            "user": "tony_stark",
+            "total_amount_transaction": 1000000,
+            "transaction_date": "2021-01-28T03:00:00.000Z"
+        },
+        {
+            "id": "2931b575-14a1-464a-84a2-e87704318047",
+            "user": "bruce_banner",
+            "total_amount_transaction": 30000000,
+            "transaction_date": "2021-01-28T06:00:00.000Z"
+        },
+        {
+            "id": "aa3cb0c8-3495-4127-9150-63519ed81aa7",
+            "user": "peter_parker",
+            "total_amount_transaction": 15000000,
+            "transaction_date": "2021-01-28T07:00:00.000Z"
+        },
+        {
+            "id": "72c882a6-e09b-41c7-9b77-06a7f2a1df7f",
+            "user": "wanda_maximoff",
+            "total_amount_transaction": 7000000,
+            "transaction_date": "2021-01-28T08:00:00.000Z"
+        },
+        {
+            "id": "2f6d6e49-ff0a-4c74-8939-cafd2b07babe",
+            "user": "peter_parker",
+            "total_amount_transaction": 20000000,
+            "transaction_date": "2021-02-02T01:00:00.000Z"
+        },
+        {
+            "id": "2f6d6e49-ff0a-4c74-8939-cafd2b07babe",
+            "user": "tony_stark",
+            "total_amount_transaction": 5000000,
+            "transaction_date": "2021-02-03T03:00:00.000Z"
+        },
+        {
+            "id": "9a3787ae-6c0d-4063-b0c1-49f61350b3ef",
+            "user": "bruce_banner",
+            "total_amount_transaction": 310000,
+            "transaction_date": "2021-02-03T06:00:00.000Z"
+        },
+        {
+            "id": "93a40239-5ec8-43de-9164-8441aa456a0b",
+            "user": "peter_parker",
+            "total_amount_transaction": 25000000,
+            "transaction_date": "2021-02-08T03:00:00.000Z"
+        },
+        {
+            "id": "c4e5a2a2-70ad-4ffe-8a45-7b8bf2eb129b",
+            "user": "steve_rogers",
+            "total_amount_transaction": 10000000,
+            "transaction_date": "2021-02-10T04:00:00.000Z"
+        },
+        {
+            "id": "d061dbde-4019-4e7d-810c-a809224f6f7a",
+            "user": "tony_stark",
+            "total_amount_transaction": 8000000,
+            "transaction_date": "2021-02-10T06:00:00.000Z"
+        },
+        {
+            "id": "860dfc10-3ad1-4aca-9997-0a2fde934650",
+            "user": "peter_parker",
+            "total_amount_transaction": 18000000,
+            "transaction_date": "2021-02-11T03:00:00.000Z"
+        },
+        {
+            "id": "95b583ab-4557-4774-b61f-e115738bcaca",
+            "user": "stephen_strange",
+            "total_amount_transaction": 16000000,
+            "transaction_date": "2021-02-12T03:00:00.000Z"
+        },
+        {
+            "id": "825a1ff0-37d6-4eee-a95c-0307ddc37806",
+            "user": "wanda_maximoff",
+            "total_amount_transaction": 6000000,
+            "transaction_date": "2021-02-13T03:00:00.000Z"
+        },
+        {
+            "id": "01cde53e-e3d9-4468-812e-340edb09c2b2",
+            "user": "bruce_banner",
+            "total_amount_transaction": 3000000,
+            "transaction_date": "2021-02-13T03:00:00.000Z"
+        }
+    ],
+    "data_order": {
+        "tony_stark": {
+            "user": "tony_stark",
+            "products": [
+                {
+                    "name": "Creme De Cacao Mcguinness",
+                    "quantity": 4,
+                    "price": 59763
+                }, {
+                    "name": "Pasta - Linguini, Dry",
+                    "quantity": 5,
+                    "price": 118747
+                }, {
+                    "name": "Plate Pie Foil",
+                    "quantity": 1,
+                    "price": 294154
+                }, {
+                    "name": "Fondant - Icing",
+                    "quantity": 4,
+                    "price": 207086
+                }, {
+                    "name": "Tomato - Green",
+                    "quantity": 1,
+                    "price": 52698
+                }
+            ]
+        },
+        "stephen_strange": {
+            "user": "stephen_strange",
+            "products": [
+                {
+                    "name": "Flower - Pot Mums",
+                    "quantity": 3,
+                    "price": 245085
+                }, {
+                    "name": "Ecolab - Power Fusion",
+                    "quantity": 1,
+                    "price": 13286
+                }, {
+                    "name": "Cheese - Cheddar, Old White",
+                    "quantity": 1,
+                    "price": 198467
+                }, {
+                    "name": "Wine - Rosso Toscano Igt",
+                    "quantity": 5,
+                    "price": 251953
+                }, {
+                    "name": "Muffin Batt - Ban Dream Zero",
+                    "quantity": 4,
+                    "price": 89621
+                }, {
+                    "name": "Wine - Casablanca Valley",
+                    "quantity": 2,
+                    "price": 269158
+                }, {
+                    "name": "Lamb - Rack",
+                    "quantity": 3,
+                    "price": 236463
+                }, {
+                    "name": "Sauce - Plum",
+                    "quantity": 3,
+                    "price": 65369
+                }, {
+                    "name": "Cheese - Havarti, Salsa",
+                    "quantity": 3,
+                    "price": 65369
+                }, {
+                    "name": "Tomato - Peeled Italian Canned",
+                    "quantity": 3,
+                    "price": 292880
+                }
+            ]
+        },
+        "may_parker": {
+            "user": "may_parker",
+            "products": [
+                {
+                    "name": "Coffee - Dark Roast",
+                    "quantity": 163,
+                    "price": 591755
+                }
+            ]
+        },
+        "bruce_banner": {
+            "user": "bruce_banner",
+            "products": [
+                {
+                    "name": "Beer - Maudite",
+                    "quantity": 4,
+                    "price": 278031
+                }, {
+                    "name": "Tart Shells - Barquettes, Savory",
+                    "quantity": 5,
+                    "price": 47366
+                }, {
+                    "name": "Tomato Puree",
+                    "quantity": 3,
+                    "price": 90386
+                }, {
+                    "name": "Wine - Pinot Grigio Collavini",
+                    "quantity": 1,
+                    "price": 223644
+                }, {
+                    "name": "Cheese - Goat",
+                    "quantity": 3,
+                    "price": 188731
+                }, {
+                    "name": "Rum - Mount Gay Eclipes",
+                    "quantity": 5,
+                    "price": 217958
+                }, {
+                    "name": "Soup Campbells",
+                    "quantity": 4,
+                    "price": 84801
+                }, {
+                    "name": "Orange Roughy 6/8 Oz",
+                    "quantity": 4,
+                    "price": 29247
+                }, {
+                    "name": "Gelatine Leaves - Envelopes",
+                    "quantity": 3,
+                    "price": 143036
+                }, {
+                    "name": "Turkey Leg With Drum And Thigh",
+                    "quantity": 5,
+                    "price": 242458
+                }
+            ]
+        },
+        "peter_parker": {
+            "user": "peter_parker",
+            "products": [
+                {
+                    "name": "Pork Ham Prager",
+                    "quantity": 4,
+                    "price": 279044
+                }, {
+                    "name": "Coffee - Beans, Whole",
+                    "quantity": 1,
+                    "price": 203372
+                }, {
+                    "name": "Pork Loin Bine - In Frenched",
+                    "quantity": 3,
+                    "price": 40093
+                }, {
+                    "name": "Coconut Milk - Unsweetened",
+                    "quantity": 3,
+                    "price": 90720
+                }, {
+                    "name": "Jicama",
+                    "quantity": 2,
+                    "price": 259338
+                }, {
+                    "name": "Shiratamako - Rice Flour",
+                    "quantity": 4,
+                    "price": 34996
+                }, {
+                    "name": "Tahini Paste",
+                    "quantity": 1,
+                    "price": 161511
+                }, {
+                    "name": "Fondant - Icing",
+                    "quantity": 5,
+                    "price": 103937
+                }, {
+                    "name": "Napkin - Beverage, White 2 - Ply",
+                    "quantity": 4,
+                    "price": 222076
+                }, {
+                    "name": "Marzipan 50/50",
+                    "quantity": 3,
+                    "price": 297728
+                }, {
+                    "name": "Sauce - Balsamic Vinaigre",
+                    "quantity": 4,
+                    "price": 214838
+                }, {
+                    "name": "Beer - Moosehead",
+                    "quantity": 1,
+                    "price": 188448
+                }, {
+                    "name": "Wine - Red, Antinori Santa",
+                    "quantity": 1,
+                    "price": 244145
+                }, {
+                    "name": "Banana - Leaves",
+                    "quantity": 1,
+                    "price": 233527
+                }, {
+                    "name": "Salsify, Organic",
+                    "quantity": 3,
+                    "price": 243176
+                }, {
+                    "name": "Wine - Ice Wine",
+                    "quantity": 3,
+                    "price": 24864
+                }, {
+                    "name": "Vacuum Bags 12x16",
+                    "quantity": 2,
+                    "price": 13251
+                }, {
+                    "name": "Chips Potato Salt Vinegar 43g",
+                    "quantity": 2,
+                    "price": 132772
+                }, {
+                    "name": "Cake - Mini Cheesecake Cherry",
+                    "quantity": 2,
+                    "price": 203544
+                }, {
+                    "name": "Mangostein",
+                    "quantity": 4,
+                    "price": 214925
+                }
+            ]        
+        }     
+    }               
+}
+
